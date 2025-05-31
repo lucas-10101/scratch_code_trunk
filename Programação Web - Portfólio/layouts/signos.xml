@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, regido por Marte. Pessoas de Áries são
+            conhecidas por sua energia, coragem e espírito de liderança. São impulsivas,
+            determinadas e gostam de desafios. Podem ser impacientes, mas estão sempre prontas para
+            iniciar novos projetos com entusiasmo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra regido por Vênus. Taurinos valorizam a estabilidade, o
+            conforto e os prazeres sensoriais. São pacientes, leais e persistentes, mas podem ser
+            teimosos e relutantes a mudanças.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo de ar regido por Mercúrio. Geminianos são comunicativos,
+            curiosos e versáteis. Gostam de aprender e de trocar ideias. Podem ser vistos como
+            inconstantes por sua natureza inquieta.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo de água regido pela Lua. Cancerianos são emotivos, protetores e
+            ligados à família. Tendem a ser sensíveis e intuitivos, com grande apego ao passado e ao
+            lar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de fogo regido pelo Sol. Leoninos são carismáticos, confiantes e
+            gostam de estar no centro das atenções. Possuem forte senso de liderança e generosidade,
+            mas podem ser orgulhosos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra regido por Mercúrio. Virginianos são analíticos,
+            organizados e detalhistas. Valorizam a precisão e o trabalho bem feito, mas podem ser
+            críticos e perfeccionistas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é um signo de ar regido por Vênus. Librianos prezam pela harmonia, justiça
+            e beleza. São diplomáticos e sociáveis, mas podem ser indecisos diante de conflitos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo de água regido por Plutão e Marte. Escorpianos são intensos,
+            passionais e determinados. Têm grande poder de transformação, mas também podem ser
+            desconfiados e controladores.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é um signo de fogo regido por Júpiter. Sagitarianos são otimistas,
+            aventureiros e amantes da liberdade. Gostam de expandir seus horizontes através do
+            conhecimento e das viagens.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo de terra regido por Saturno. Capricornianos são
+            responsáveis, determinados e ambiciosos. Valorizam a disciplina e o esforço, mas podem
+            ser rígidos e reservados.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é um signo de ar regido por Urano e Saturno. Aquarianos são inovadores,
+            independentes e idealistas. Valorizam a liberdade e têm forte senso de justiça social.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é um signo de água regido por Netuno. Piscianos são sensíveis, intuitivos
+            e sonhadores. Têm grande empatia e conexão com o mundo emocional, podendo ser escapistas
+            em momentos de dificuldade.</descricao>
+    </signo>
+</signos>
